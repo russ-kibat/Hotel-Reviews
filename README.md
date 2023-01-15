@@ -10,4 +10,4 @@ Customer reviews are vital in understanding how a company can focus its attentio
 In this post I am going to explore and clean the dataset in preparation for modeling. I use `Pandas` and `Matplotlib` to explore the data and clean up issues. I also use `SKLearn.feature_extraction.CountVectorizer` to parse the text reviews and add sparse matrices to the core data. In the follow up post I will compare several machine learning models to predict a positive or negative customer review based on their feedback and extract the relevant keywords for positive and negative reviews. 
 
 This post can be found on my 
-[Gitpage](www.russ-kibat.github.io/Hotel-Review-1). 
+[Gitpage](https://russ-kibat.github.io/Hotel-Review-1). 
